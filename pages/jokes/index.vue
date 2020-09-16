@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto">
     <div class="mt-4 mb-4">
-      <SearchJokes :search-text="searchText" />
+      <SearchJokes v-on:search-text="searchText" />
     </div>
     <!-- Six columns -->
     <div class="container">
