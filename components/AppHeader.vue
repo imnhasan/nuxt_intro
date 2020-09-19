@@ -5,6 +5,7 @@
       <div class="flex">
         <nuxt-link to="/jokes" class="ml-16">Jokes</nuxt-link>
         <nuxt-link to="/about" class="ml-16">About</nuxt-link>
+        <nuxt-link to="/taliwind" class="ml-16">Taliwind</nuxt-link>
       </div>
     </div>
   </div>
